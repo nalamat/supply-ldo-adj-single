@@ -435,7 +435,7 @@ Wire Wire Line
 Wire Wire Line
 	2050 2000 2350 2000
 Text Notes 2550 3000 0    60   ~ 0
-Vref = 1.6V\nVout = Vref + Vadj
+Vref = 1.4V\nVout = Vref + Vadj
 Text Notes 3750 2850 0    60   ~ 0
 Vadj
 Text Notes 5600 1500 0    60   ~ 0

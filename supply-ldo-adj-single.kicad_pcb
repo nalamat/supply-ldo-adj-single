@@ -1,9 +1,9 @@
-(kicad_pcb (version 4) (host pcbnew 4.0.2-stable)
+(kicad_pcb (version 4) (host pcbnew 4.0.1-stable)
 
   (general
     (links 58)
     (no_connects 0)
-    (area 74.854999 31.674999 106.755001 71.195001)
+    (area 72.361667 31.674999 109.248334 71.714)
     (thickness 1.6)
     (drawings 26)
     (tracks 66)
@@ -697,7 +697,7 @@
   (gr_text + (at 101.6 59.69) (layer B.SilkS)
     (effects (font (size 1 1) (thickness 0.2)) (justify mirror))
   )
-  (gr_text "Vout=\nVadj+1.6" (at 99.822 53.594) (layer B.SilkS)
+  (gr_text "Vout=\nVadj+1.4" (at 99.822 53.594) (layer B.SilkS)
     (effects (font (size 0.8 0.8) (thickness 0.2)) (justify left mirror))
   )
   (gr_text "6.4 6.4 3.2 1.6 0.8 0.4 0.2 0.1" (at 95.25 45.466) (layer B.SilkS)
